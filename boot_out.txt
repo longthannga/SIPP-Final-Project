@@ -1,0 +1,3 @@
+Adafruit CircuitPython 10.2.1 on 2026-05-12; Adafruit Metro M0 Express with samd21g18
+Board ID:metro_m0_express
+UID:28F4220D4158305020312E50261A08FF
